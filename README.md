@@ -33,4 +33,3 @@ HTML CSS Assignment/
 └── README.md               # Project documentation
 
 
-Media queries are used to ensure a consistent and user-friendly experience on all devices.
