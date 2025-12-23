@@ -6,38 +6,22 @@ This project is a fully responsive restaurant website developed using plain HTML
 The goal of this assignment is to demonstrate strong fundamentals in semantic HTML, responsive layouts, and clean CSS styling.
 
 ✨ Features
-
 Fully responsive design
-
 Desktop
-
 Tablet
-
 Mobile
 
 Built using only HTML and CSS
-
 No external frameworks or libraries used
-
 Clean and semantic HTML structure
-
 Optimized images with proper aspect ratios
-
 Cross-browser compatible
-
 Well-structured and readable CSS
 
 🛠️ Technologies Used
-
 HTML5
-
 CSS3
 
-Flexbox
-
-Media Queries
-
-Responsive units
 
 📂 Project Structure
 HTML CSS Assignment/
@@ -48,14 +32,5 @@ HTML CSS Assignment/
 ├── images/                 # Images used in the website
 └── README.md               # Project documentation
 
-📱 Responsiveness
-
-The website layout adapts smoothly across different screen sizes:
-
-Desktop: Full-width layout with proper spacing
-
-Tablet: Adjusted layout and font sizes
-
-Mobile: Stacked sections and optimized navigation
 
 Media queries are used to ensure a consistent and user-friendly experience on all devices.
