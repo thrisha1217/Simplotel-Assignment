@@ -18,8 +18,10 @@ Optimized images with proper aspect ratios
 Cross-browser compatible
 Well-structured and readable CSS
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 HTML5
+
 CSS3
 
 
