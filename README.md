@@ -1,9 +1,7 @@
-# Simplotel-Assignment
-
-📌 Project Overview
+# Simplotel Frontend Web Developer - HTML, CSS - Assignment
 
 This project is a fully responsive restaurant website developed using plain HTML and CSS, without relying on any external frameworks or libraries.
-The goal of this assignment is to demonstrate strong fundamentals in semantic HTML, responsive layouts, and clean CSS styling.
+The goal of this assignment is to demonstrate strong fundamentals in semantic HTML,clean CSS styling.
 
 ✨ Features
 Fully responsive design
