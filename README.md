@@ -23,13 +23,4 @@ HTML5
 CSS3
 
 
-📂 Project Structure
-HTML CSS Assignment/
-│
-├── index.html              # Main HTML file
-├── css/
-│   └── styles.css          # Stylesheet
-├── images/                 # Images used in the website
-└── README.md               # Project documentation
-
 
